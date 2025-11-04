@@ -24,295 +24,269 @@
       "Title": "Frontend Developer",
       "Date": "Jan 2025 - Present",
       "Description": [
-        "Creation and maintenance of a monitoring platform with charts in WordPress.",
-        "Functional programming in templates and plugins to add necessary monitoring features.",
-        "Implementation of continuous integration and daily backups.",
-        "Creation and maintenance of a second Monitoring Platform made with Angular, Angular Material, Nodejs, MySQL, RxJS, Sass with configurable charts, alarm systems, and user management and general configuration settings.",
-        "Planning and reporting meetings."
+        "Frontend development and UI/UX design for scalable enterprise projects with Angular and Laravel Blade, ensuring responsive and high-performance user interfaces.",
+        "Building and maintaining modular, component-driven architectures to support complex systems like ERP, HR, and Monitoring Dashboards.",
+        "Integration of RESTful APIs, real-time updates, and dynamic data visualization using Angular Material, RxJS, and Chart.js.",
+        "Implementation of clean code practices, version control (Git), and automated CI/CD pipelines for continuous integration and deployment.",
+        "Collaboration with backend teams to ensure seamless frontend–backend communication and data flow.",
+        "Active contribution to Linrco Egypt’s internal tools and client-facing platforms, focusing on scalability, maintainability, and modern design principles.",
+        "Conducting regular planning, sprint reviews, and performance optimization sessions to enhance application stability and user experience."
       ]
     },
     {
-      "Tab": "SEENA PAY",
-      "Title": "Frontend Developer",
-      "Date": "May 2024 - January 2025",
-      "Description": [
-        "Continuous improvements implementation, working on frontend and backend.",
-        "Creation of platforms with Angular, Nodejs, WordPress programmed with functional, reactive, and object-oriented programming paradigms.",
-        "Process automation with data structures.",
-        "Template designs with SASS, Bootstrap, Materialize, Bulma, etc."
-      ]
-    },
-    {
-      "Tab": "Domar Company",
-      "Title": "Frontend Developer",
-      "Date": "July 2023 - October 2024",
-      "Description": [
-        "Leading a team of 4 people in the development of a tourism data management platform made in Angular, Nodejs, and MySQL.",
-        "Implementation of CI/CD in Azure. Refactoring and optimizing application load times.",
-        "Coding API requests with RxJS.",
-        "Creating modules with complex reactive forms.",
-        "Writing weekly reports about goals and plans."
-      ]
-    },
-        {
-          "Tab": "ITI",
-          "Title": "Instructor",
-          "Date": "October 2023 - Nov 2024",
-          "Description": [
-            "Leading a team of 4 people in the development of a tourism data management platform made in Angular, Nodejs, and MySQL.",
-            "Implementation of CI/CD in Azure. Refactoring and optimizing application load times.",
-            "Coding API requests with RxJS.",
-            "Creating modules with complex reactive forms.",
-            "Writing weekly reports about goals and plans."
-          ]
-        },
-    {
-      "Tab": "ITI",
-      "Title": "Web & User Interface Development Track - Ismailia, Egypt",
-      "Date": "Jan 2022 - September 2023",
-      "Description": [
-        "Leader in technical decision making",
-        "Hiring technical talent for the company",
-        "Team leader of the technology department",
-        "Creation and maintenance of an internal process management platform for course sales",
-        "Programming custom functions and plugins for customizing a WordPress platform",
-        "Implementation of continuous integration and daily backups.",
-        "Planning and reporting meetings."
-      ]
-    }
+  "Tab": "SEENA PAY",
+  "Title": "Frontend Developer",
+  "Date": "May 2024 - January 2025",
+  "Description": [
+    "Frontend development for financial and installment service platforms, acting as a system intermediary between installment companies to streamline and automate business operations.",
+    "Building and maintaining scalable and responsive web interfaces using Next.js and Laravel Blade templates, ensuring optimal performance and user experience.",
+    "Collaborating with backend teams to integrate complex APIs and financial workflows into the frontend layer.",
+    "Implementing reusable UI components and design systems with modern frameworks and styling tools including SASS, Bootstrap, and Tailwind CSS.",
+    "Enhancing user experience and efficiency through process automation, clean architecture, and data-driven design.",
+    "Contributing to continuous improvement cycles, code reviews, and system scalability enhancements to support growing financial operations."
+  ]
+},
+
+{
+  "Tab": "Domar Company",
+  "Title": "Frontend Developer",
+  "Date": "July 2023 - October 2024",
+  "Description": [
+    "Frontend development of multiple e-learning and e-commerce platforms for international clients within a software house environment.",
+    "Building scalable, modular, and high-performance interfaces using React.js, React Router, Context API, and modern state management patterns.",
+    "Collaborating closely with backend teams to integrate RESTful APIs and ensure seamless data communication across platforms.",
+    "Developing responsive and visually appealing UI components with Material-UI, Tailwind CSS, and SASS to enhance user experience.",
+    "Optimizing performance, implementing reusable design systems, and ensuring best practices in accessibility and code quality.",
+    "Managing project timelines, reviewing code, and contributing to system scalability and maintainability for global client projects."
+  ]
+},
+{
+  "Tab": "ITI (Instructor)",
+  "Title": "Instructor – MERN Stack",
+  "Date": "October 2023 - November 2023",
+  "Description": [
+    "Delivered practical training sessions on the MERN stack (MongoDB, Express.js, React, Node.js) to students, focusing on real-world project development.",
+    "Explained core frontend and backend concepts, API integration, and database management in a simplified and effective way.",
+    "Guided students through fullstack project implementation and best practices in clean coding and performance optimization.",
+    "Provided mentorship and technical support throughout the course duration, ensuring deep understanding and hands-on experience."
+  ]
+},
+{
+  "Tab": "ITI (Student)",
+  "Title": "Full Stack Development Trainee – Web & User Interface Development Track, Ismailia, Egypt",
+  "Date": "January 2022 - September 2023",
+  "Description": [
+    "Completed an intensive fullstack development program covering both frontend and backend technologies with a strong software engineering foundation.",
+    "Studied and applied data structures, algorithms, and software design principles for scalable web applications.",
+    "Worked with multiple frontend frameworks such as Angular, React, Next.js, and Vue.js.",
+    "Developed backend applications using Node.js and NestJS, with hands-on experience in SQL, MySQL, and MongoDB databases.",
+    "Built fullstack web projects from scratch, applying responsive design, clean architecture, and modern UI/UX standards."
+  ]
+}
   ],
   "FeatureProjects.Title": "My Projects",
   "FeatureProjects.Label": "Highlighted Project",
-  "FeatureProjects.Projects": [
-    {
-      "Title": "Gisselle",
-      "Description": "Web application for internal company management that covers sales, collection, and tracking departments, very extensive and complex with various functions made in <span class='underline'>Angular</span> and <span class='underline'>Nodejs</span>. It works with <span class='underline'>websockets</span>, <span class='underline'>schedules</span>, <span class='underline'>Nodejs jobs</span>, integrations with WordPress, Zadarma, LiveConnect, etc.",
-      "imgs": [
-        "assets/images/gisselle/Captura de pantalla 2024-05-19 1009582.png",
-        "assets/images/gisselle/Captura de pantalla 2024-05-19 115514.png",
-        "assets/images/gisselle/Captura de pantalla 2024-05-19 115702.png",
-        "assets/images/gisselle/Captura de pantalla 2024-05-19 115829.png",
-        "assets/images/gisselle/Captura de pantalla 2024-05-19 1009582.png"
-      ],
-      "Technologies": [
-        "Nodejs",
-        "Angular",
-        "SASS",
-        "Angular Material",
-        "RxJS"
-      ]
-    },
-    {
-      "Title": "Emelteciot",
-      "Description": "Monitoring application for data query, made with <span class='underline'>Angular</span> and <span class='underline'>Nodejs</span>. The <span class='underline'>chart.js</span> library is applied.",
-      "imgs": [
-        "assets/images/proyex2/Captura de pantalla 2024-07-28 102852.png",
-        "assets/images/proyex2/849c117f-bed9-4406-9c13-c8669f655acc.png",
-        "assets/images/proyex2/62cdf90c-6196-4a6e-b639-8919cda4f749.png",
-        "assets/images/proyex2/8c919208-d6a8-48f4-890d-4817323b6923.png",
-        "assets/images/proyex2/8c919208-d6a8-48f4-890d-4817323b6923 (1).png"
-      ],
-      "Technologies": [
-        "Nodejs",
-        "Angular",
-        "SASS",
-        "Angular Material",
-        "RxJS"
-      ]
-    },
-    {
-      "Title": "Vas Aviation",
-      "Description": "Application for tracking fuel supply requests for aircraft. It has an <span class='underline'>email module</span>, <span class='underline'>real-time notifications</span>, <span class='underline'>CSV file handling for data import</span>, <span class='underline'>price quotes</span>. Developed in <span class='underline'>Angular</span> and <span class='underline'>Nodejs</span>.",
-      "imgs": [
-        "assets/images/vasaviation/capture0.png",
-        "assets/images/vasaviation/capture1.png",
-        "assets/images/vasaviation/capture2.png",
-        "assets/images/vasaviation/capture3.png",
-        "assets/images/vasaviation/capture4.png",
-        "assets/images/vasaviation/capture5.png"
-      ],
-      "Technologies": [
-        "Nodejs",
-        "Angular",
-        "SASS",
-        "Angular Material",
-        "RxJS"
-      ]
-    },
-    {
-      "Title": "GlobalJobs",
-      "Description": "E-learning platform developed with WordPress. Fully customized design, with plugins developed from scratch. It has a customized payment module, virtual classroom, course tracking dashboard.",
-      "imgs": [
-        "assets/images/globaljobs/capture1.png",
-        "assets/images/globaljobs/capture2.png",
-        "assets/images/globaljobs/capture3.png",
-        "assets/images/globaljobs/capture4.png",
-        "assets/images/globaljobs/capture5.png",
-        "assets/images/globaljobs/capture6.png"
-      ],
-      "Technologies": [
-        "WordPress",
-        "WordPress Codex",
-        "PHP",
-        "MySQL"
-      ]
-    },
-    {
-      "Title": "MBElectronics",
-      "Description": "E-commerce platform for technology products. Developed with WordPress and implementing a shipping system for products. It has sales reporting through customized programming.",
-      "imgs": [
-        "assets/images/mbelectronics/capture0.png",
-        "assets/images/mbelectronics/capture1.png",
-        "assets/images/mbelectronics/capture2.png"
-      ],
-      "Technologies": [
-        "WordPress",
-        "Elementor",
-        "Woocommerce",
-        "WordPress Codex",
-        "PHP",
-        "MySQL"
-      ]
-    },
-    {
-      "Title": "Agrourbana",
-      "Description": "Monitoring application made from scratch with an auth module, <span class='underline'>configurable graphs</span>, <span class='underline'>configurable alarms</span>, and <span class='underline'>user management</span>. It also has logic for reactive forms for parameter configuration.",
-      "imgs": [
-        "assets/images/agrourbana/agrourbana1.png",
-        "assets/images/agrourbana/agrourbana2.png",
-        "assets/images/agrourbana/agrourbana3.png",
-        "assets/images/agrourbana/agrourbana4.png",
-        "assets/images/agrourbana/agrourbana5.png"
-      ],
-      "Technologies": [
-        "Nodejs",
-        "Angular",
-        "SASS",
-        "Angular Material",
-        "RxJS"
-      ]
-    },
-    {
-      "Title": "Tu Super Plan",
-      "Description": "Health plans quoter that has an advanced search engine. The plans are shown based on the user's age, monthly income, and location. It has a <span class='underline'>live chat</span>, <span class='underline'>contact form</span>, <span class='underline'>notification system via WhatsApp and email</span>, <span class='underline'>auth</span>, and <span class='underline'>internal information management through the admin role</span>.",
-      "imgs": [
-        "assets/images/tusuperplan/tusuperplan1.png",
-        "assets/images/tusuperplan/tusuperplan2.png",
-        "assets/images/tusuperplan/tusuperplan3.png",
-        "assets/images/tusuperplan/tusuperplan4.png",
-        "assets/images/tusuperplan/tusuperplan5.png"
-      ],
-      "Technologies": [
-        "Nodejs",
-        "Angular",
-        "SASS",
-        "Angular Material",
-        "RxJS"
-      ]
-    },
-    {
-      "Title": "Proyexiot",
-      "Description": "Data monitoring platform for water wells, tugboats, and various installations made from scratch with an auth module, <span class='underline'>configurable graphs</span>, <span class='underline'>configurable alarms</span>, <span class='underline'>user management</span>, and <span class='underline'>geolocation with openlayers</span>. It also has logic for reactive forms for parameter configuration.",
-      "imgs": [
-        "assets/images/proyex/proyex1.png",
-        "assets/images/proyex/proyex2.png",
-        "assets/images/proyex/proyex3.png",
-        "assets/images/proyex/proyex4.png",
-        "assets/images/proyex/proyex5.png",
-        "assets/images/proyex/proyex6.png",
-        "assets/images/proyex/proyex7.png",
-        "assets/images/proyex/proyex8.png",
-        "assets/images/proyex/proyex9.png",
-        "assets/images/proyex/proyex10.png",
-        "assets/images/proyex/proyex11.png",
-        "assets/images/proyex/proyex12.png"
-      ],
-      "Technologies": [
-        "Nodejs",
-        "Angular",
-        "SASS",
-        "Angular Material",
-        "RxJS"
-      ]
-    }
-  ],
-  "OtherProjects.Title": "More Projects",
-  "OtherProjects.Projects": [
-    {
-      "Title": "Hands Game",
-      "Description": "Extended rock-paper-scissors game. A personal project developed in Angular where you play randomly against the machine. It features the use of services, interfaces, and components.",
-      "imgs": [
-        "assets/images/hands-game.png"
-      ],
-      "ghLink": "https://github.com/andresjosehr/hands-game",
-      "demoLink": "https://projects.andresjosehr.com/hands-game",
-      "Technologies": [
-        "Angular",
-        "CSS GRID",
-        "SASS",
-        "Angular animations"
-      ]
-    },
-    {
-      "Title": "Countries Viewer",
-      "Description": "Interface that consumes a countries API where you can view a list of countries, see details of each country, filter by name and region. It also has a dark mode to switch between dark and light themes.",
-      "imgs": [
-        "assets/images/countries-viewer.png"
-      ],
-      "ghLink": "https://github.com/andresjosehr/countries-viewer",
-      "demoLink": "https://projects.andresjosehr.com/countries-viewer",
-      "Technologies": [
-        "Angular",
-        "RxJS",
-        "SASS",
-        "API"
-      ]
-    },
-    {
-      "Title": "Four Card Feature Section",
-      "Description": "A single page with a minimalist design listing 4 features in 4 cards. Entry animations are used with Angular animations.",
-      "ghLink": "https://github.com/andresjosehr/four-card-feature-section",
-      "demoLink": "https://projects.andresjosehr.com/four-card-feature-section",
-      "Technologies": [
-        "Angular",
-        "SASS",
-        "CSS GRID"
-      ]
-    },
-    {
-      "Title": "Social Proof Section",
-      "Description": "Personal project of a page designed from a design made in Figma. Angular was used for development along with SASS and CSS GRID.",
-      "ghLink": "https://github.com/andresjosehr/social-proof-section",
-      "demoLink": "https://projects.andresjosehr.com/social-proof-section",
-      "Technologies": [
-        "Angular",
-        "CSS GRID",
-        "GIT"
-      ]
-    },
-    {
-      "Title": "FAQ Accordion Card",
-      "Description": "Frequently asked questions accordion with logic and animations made in Angular.",
-      "ghLink": "https://github.com/andresjosehr/faq-accordion",
-      "demoLink": "https://projects.andresjosehr.com/faq-accordion",
-      "Technologies": [
-        "Angular",
-        "CSS GRID",
-        "Angular animations"
-      ]
-    },
-    {
-      "Title": "Profile Card",
-      "Description": "Simple design of a page featuring a profile card with basic information of a person.",
-      "ghLink": "https://github.com/andresjosehr/profile-card-component",
-      "demoLink": "https://projects.andresjosehr.com/profile-card-component",
-      "Technologies": [
-        "Angular",
-        "SASS",
-        "GIT"
-      ]
-    }
-  ],
+"FeatureProjects.Projects": [
+  {
+    "Title": "Personal Portfolio",
+    "Description": "A sleek, responsive portfolio website designed to showcase my projects, skills, and contact information in a visually appealing manner.",
+    "imgs": [
+      "assets/images/proyex/proyex1.png",
+      "assets/images/proyex/proyex2.png",
+      "assets/images/proyex/proyex3.png",
+      "assets/images/proyex/proyex4.png",
+      "assets/images/proyex/proyex5.png",
+      "assets/images/proyex/proyex6.png",
+      "assets/images/proyex/proyex7.png",
+      "assets/images/proyex/proyex8.png",
+      "assets/images/proyex/proyex9.png",
+      "assets/images/proyex/proyex10.png",
+      "assets/images/proyex/proyex11.png",
+      "assets/images/proyex/proyex12.png"
+    ],
+    "Technologies": [
+      "Angular",
+      "CSS",
+      "HTML",
+      "Tailwind"
+    ]
+  },
+  {
+    "Title": "Air Tickets Reservation App",
+    "Description": "An intuitive application that simplifies the process of searching for air tickets, featuring a user-friendly interface and real-time availability.",
+    "imgs": [
+      "assets/images/tusuperplan/tusuperplan1.png",
+      "assets/images/tusuperplan/tusuperplan2.png",
+      "assets/images/tusuperplan/tusuperplan3.png",
+      "assets/images/tusuperplan/tusuperplan4.png",
+      "assets/images/tusuperplan/tusuperplan5.png"
+    ],
+    "Technologies": [
+      "Angular",
+      "Angular Material"
+    ]
+  },
+  {
+    "Title": "Full Angular E-Commerce",
+    "Description": "A comprehensive e-commerce application built with Angular, featuring product management, user authentication, and a seamless shopping experience.",
+    "imgs": [
+      "assets/images/agrourbana/agrourbana1.png",
+      "assets/images/agrourbana/agrourbana2.png",
+      "assets/images/agrourbana/agrourbana3.png",
+      "assets/images/agrourbana/agrourbana4.png",
+      "assets/images/agrourbana/agrourbana5.png"
+    ],
+    "Technologies": [
+      "Angular",
+      "Node.js",
+      "Bootstrap",
+      "Tailwind"
+    ]
+  },
+  {
+    "Title": "X-Abayat E-Commerce with 2 Sides Auth for Client and Designer",
+    "Description": "A comprehensive e-commerce application built with React, featuring product management, user authentication, Client and Designers with social media side for designer with dashboard, and a seamless shopping experience.",
+    "imgs": [
+      "assets/images/mbelectronics/capture0.png",
+      "assets/images/mbelectronics/capture1.png",
+      "assets/images/mbelectronics/capture2.png"
+    ],
+    "Technologies": [
+      "React",
+      "PHP",
+      "Bootstrap",
+      "Tailwind",
+      "MUI"
+    ]
+  },
+  {
+    "Title": "Sigmaty Dashboard",
+    "Description": "A comprehensive data visualization dashboard that aggregates and displays key metrics and insights, enabling users to make informed decisions with an intuitive interface.",
+    "imgs": [
+      "assets/images/globaljobs/capture1.png",
+      "assets/images/globaljobs/capture2.png",
+      "assets/images/globaljobs/capture3.png",
+      "assets/images/globaljobs/capture4.png",
+      "assets/images/globaljobs/capture5.png",
+      "assets/images/globaljobs/capture6.png"
+    ],
+    "Technologies": [
+      "React",
+      "Firebase",
+      "Tailwind",
+      "Bootstrap"
+    ]
+  },
+  {
+    "Title": "E-Commerce Store, Auction, LiveChat",
+    "Description": "A dynamic e-commerce platform that includes product listings, a shopping cart, user authentication, auction capabilities, and a live chat feature for real-time bidding and communication.",
+    "imgs": [
+      "assets/images/vasaviation/capture0.png",
+      "assets/images/vasaviation/capture1.png",
+      "assets/images/vasaviation/capture2.png",
+      "assets/images/vasaviation/capture3.png",
+      "assets/images/vasaviation/capture4.png",
+      "assets/images/vasaviation/capture5.png"
+    ],
+    "Technologies": [
+      "React",
+      "Node.js",
+      "MongoDB"
+    ]
+  }
+]
+,
+  "OtherProjects.Title": "Projects Links",
+"OtherProjects.Projects": [
+  {
+    "Title": "Personal Portfolio",
+    "Description": "A sleek, responsive portfolio website designed to showcase my projects, skills, and contact information in a visually appealing manner.",
+    "imgs": [
+      "assets/images/potfolio.avif"
+    ],
+    "ghLink": "https://github.com/omarhassan226/Portofolio",
+    "demoLink": "https://portofolio-4gkl.vercel.app/",
+    "Technologies": [
+      "Angular",
+      "CSS",
+      "HTML",
+      "Tailwind"
+    ]
+  },
+  {
+    "Title": "Air Tickets Reservation app",
+    "Description": "An intuitive application that simplifies the process of searching for air tickets, featuring a user-friendly interface and real-time availability.",
+    "imgs": [
+      "assets/images/air.PNG"
+    ],
+    "ghLink": "https://github.com/omarhassan226/New-Travel",
+    "demoLink": "https://travel-task-roundpixel.vercel.app/",
+    "Technologies": [
+      "Angular",
+      "Angular Material"
+    ]
+  },
+  {
+    "Title": "Full Angular E-Commerce",
+    "Description": "A comprehensive e-commerce application built with Angular, featuring product management, user authentication, and a seamless shopping experience.",
+    "imgs": [
+      "assets/images/template.avif"
+    ],
+    "ghLink": "https://github.com/abrarhussien/E-commerce-Angular",
+    "demoLink": "https://e-commerce-zero-two.vercel.app/home",
+    "Technologies": [
+      "Angular",
+      "Node.js",
+      "Bootstrap",
+      "Tailwind"
+    ]
+  },
+  {
+    "Title": "X-Abayat E-Commerce with 2 Sides Auth for Client and Designer",
+    "Description": "A comprehensive e-commerce application built with React, featuring product management, user authentication, Client and Designers with social media side for designer with dashboard, and a seamless shopping experience.",
+    "imgs": [
+      "assets/images/x-abayat.PNG"
+    ],
+    "ghLink": "https://github.com/abrarhussien/E-commerce-Angular",
+    "demoLink": "https://x-abayat.netlify.app/",
+    "Technologies": [
+      "React",
+      "PHP",
+      "Bootstrap",
+      "Tailwind",
+      "MUI"
+    ]
+  },
+  {
+    "Title": "Sigmaty Dashboard",
+    "Description": "A comprehensive data visualization dashboard that aggregates and displays key metrics and insights, enabling users to make informed decisions with an intuitive interface.",
+    "imgs": [
+      "assets/images/dashboard.jpg"
+    ],
+    "ghLink": "https://github.com/omarhassan226/Sigmaty-Dashboard/tree/master",
+    "demoLink": "https://sigmaty-dashboard-97.vercel.app",
+    "Technologies": [
+      "React",
+      "Firebase",
+      "Tailwind",
+      "Bootstrap"
+    ]
+  },
+  {
+    "Title": "E-Commerce Store, Auction, LiveChat",
+    "Description": "A dynamic e-commerce platform that includes product listings, a shopping cart, user authentication, auction capabilities, and a live chat feature for real-time bidding and communication.",
+    "imgs": [
+      "assets/images/chat.gif"
+    ],
+    "ghLink": "https://github.com/alimagdi12/final-project/tree/master",
+    "demoLink": "http://myecommerce.com",
+    "Technologies": [
+      "React",
+      "Node.js",
+      "MongoDB"
+    ]
+  }
+],
   "Contact.Pretitle": "And... Now?",
   "Contact.Title": "Say Hi!",
   "Contact.Content": "I will be glad to hear from you if you want to discuss new opportunities. Write to me, and I will respond as soon as I see your message.",

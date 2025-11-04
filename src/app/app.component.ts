@@ -15,7 +15,7 @@ import { LoadingService } from './services/loading/loading.service';
     standalone: false
 })
 export class AppComponent implements OnInit, OnDestroy{
-  title = 'andresjosehr-portfolio';
+  title = 'OmarHassan-portfolio';
   appContentVisible = false;
   private lenis: Lenis;
 
@@ -33,14 +33,13 @@ export class AppComponent implements OnInit, OnDestroy{
 
     this.languageService.initLanguage()
 
-    this.titleService.setTitle( "José Andrés | Frontend Developer" );
+    this.titleService.setTitle( "Omar Hassan | Frontend Developer" );
 
     this.metaService.addTags([
       {name: 'keywords', content: 'Frontend, software, developer'},
-      {name: 'description', content: 'Con 4 años de experiencia desarrollando sistemas, interfaces, bots y soluciones tecnológicas  para hacer de la web un lugar mejor. En mi trabajo me gusta liderar, proponer y ejecutar ideas, escribir y refactorizar código limpio, reutilizable y escalable.'},
+      { name: 'description', content: 'With 4 years of experience developing systems, interfaces, bots, and technological solutions to make the web a better place. In my work, I enjoy leading, proposing, and executing ideas, as well as writing and refactoring clean, reusable, and scalable code.'},
     ]);
 
-    // Inicializar partículas globales después de un breve delay
     setTimeout(() => {
       this.particlesService.init();
     }, 100);
@@ -55,7 +54,6 @@ export class AppComponent implements OnInit, OnDestroy{
       syncTouch: false
     });
 
-    // Función de animación
     const raf = (time: number) => {
       this.lenis.raf(time);
       requestAnimationFrame(raf);
@@ -68,19 +66,16 @@ export class AppComponent implements OnInit, OnDestroy{
       this.lenis.destroy();
     }
 
-    // Destruir partículas
     this.particlesService.destroy();
   }
 
   onSplashAnimationCompleted(): void {
     this.appContentVisible = true;
-    
-    // Inicializar Lenis después de que el contenido sea visible
+
     setTimeout(() => {
       this.initLenis();
     }, 100);
-    
-    // Iniciar animaciones de los componentes
+
     this.loadingService.startAnimations();
   }
 

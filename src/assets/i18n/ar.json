@@ -1,233 +1,94 @@
 {
-  "Header.Item1": "عني",
-  "Header.Item2": "الخبرة",
+  "Header.Item1": "نبذة عني",
+  "Header.Item2": "الخبرات",
   "Header.Item3": "المشاريع",
-  "Header.Item4": "اتصال",
+  "Header.Item4": "التواصل",
   "Header.cvBtn": "السيرة الذاتية",
-  "Header.cvName": "CV_Omar_hassan_ar.pdf",
+  "Header.cvName": "CV_Omar_hassan_en.pdf",
   "Loading": "جارٍ التحميل...",
   "Banner.Pretitle": "مرحبًا! اسمي",
-  "Banner.Title": " .عمر حسن",
-  "Banner.Description": "لدي <span class='underline'>أكثر من 3 سنوات من الخبرة</span> في تطوير الأنظمة، الواجهات، الروبوتات، والحلول التقنية لجعل الويب مكانًا أفضل. أكرّس نفسي لكتابة وإعادة هيكلة كود نظيف، قابل لإعادة الاستخدام والتوسّع باستخدام <span class='underline'>Angular</span> و<span class='underline'>Nodejs</span> مع تطبيق أفضل الممارسات والمعايير في التطوير.",
-  "Banner.ActionBtn": "سلّم عليّ",
-  "AboutMe.Title": "عني",
+  "Banner.Title": "عمر حسن.",
+  "Banner.Description": "لديّ <span class='underline'>أكثر من 3 سنوات من الخبرة</span> في تطوير الأنظمة والواجهات والروبوتات والحلول التقنية لجعل الويب مكانًا أفضل. أكرّس جهدي لكتابة وإعادة هيكلة كود نظيف، قابل لإعادة الاستخدام، وقابل للتوسّع باستخدام <span class='underline'>Angular</span> و<span class='underline'>Nodejs</span>، مع الالتزام بأفضل الممارسات والمعايير البرمجية.",
+  "Banner.ActionBtn": "تواصل معي",
+  "AboutMe.Title": "نبذة عني",
   "AboutMe.Paragraphs": [
-    "على مدار <span class='underline'>أكثر من 3 سنوات من الخبرة</span>، توليت العديد من الأدوار: <span class='underline'>محلل نظم</span>، <span class='underline'>مطور Backend</span>، <span class='underline'>مطور Frontend</span> و<span class='underline'>قائد تقني</span>. أحب المساهمة بمعرفتي لإنشاء أشياء جديدة تساعد في حل المشكلات.",
-    "تشمل قدراتي أيضًا تنفيذ تحسينات على الأنظمة، تحسين أداء المواقع، توحيد الأنماط، واقتراح وتنفيذ أفكار تضيف قيمة للمشروع الذي أعمل عليه.",
-    "كما أنني أبرمج أشياء لاستخدامي الشخصي، سواء كهواية أو لحاجة عملية.",
-    "بعض التقنيات التي تلقيت تدريبًا عليها وعملت بها تشمل (لكن لا تقتصر على):"
+    "خلال <span class='underline'>أكثر من 3 سنوات من الخبرة</span>، شغلت عدة أدوار: <span class='underline'>محلل نظم</span>، و<span class='underline'>مطور خلفية</span>، و<span class='underline'>مطور واجهات أمامية</span>، و<span class='underline'>قائد تقني</span>. أستمتع بتوظيف معرفتي لإبداع حلول جديدة تساعد على حل المشكلات.",
+    "تشمل مهاراتي أيضًا تحسين الأنظمة، وتحسين أداء المواقع، وتوحيد الأنماط، واقتراح وتنفيذ الأفكار التي تضيف قيمة حقيقية للمشروعات التي أعمل عليها.",
+    "أقوم أيضًا ببرمجة أدوات لأغراض شخصية، سواء كهواية أو لأهداف عملية.",
+    "ومن التقنيات التي تدربت عليها وعملت بها (على سبيل المثال لا الحصر):"
   ],
-  "Experience.Title": "الخبرة",
+  "Experience.Title": "الخبرات العملية",
   "Experience.Jobs": [
     {
-      "Tab": "Global",
-      "Title": "مطور Fullstack",
-      "Date": "مايو 2023",
+      "Tab": "Linrco-Egypt",
+      "Title": "مطور واجهات أمامية",
+      "Date": "يناير 2025 - حتى الآن",
       "Description": [
-        "قيادة عملية اتخاذ القرارات التقنية",
-        "توظيف المواهب التقنية للشركة",
-        "قيادة فريق قسم التكنولوجيا",
-        "إنشاء وصيانة منصة لإدارة العمليات الداخلية لمبيعات الدورات التدريبية",
-        "برمجة وظائف وإضافات مخصصة لتخصيص منصة WordPress",
-        "تنفيذ التكامل المستمر والنسخ الاحتياطي اليومي",
-        "اجتماعات تخطيط وتقديم تقارير"
+        "تطوير الواجهات الأمامية وتصميم واجهات المستخدم وتجربة المستخدم لمشروعات مؤسسية قابلة للتوسع باستخدام Angular وLaravel Blade، مع ضمان الأداء العالي والتجاوب الكامل.",
+        "بناء وصيانة هياكل معمارية تعتمد على المكونات لدعم أنظمة معقدة مثل أنظمة ERP وHR ولوحات التحكم.",
+        "دمج واجهات RESTful API وتحديث البيانات في الوقت الفعلي وعرض البيانات باستخدام Angular Material وRxJS وChart.js.",
+        "تطبيق مبادئ الكود النظيف، والتحكم في الإصدارات باستخدام Git، وتنفيذ خطوط CI/CD للأتمتة المستمرة.",
+        "التعاون مع فرق التطوير الخلفي لضمان تكامل البيانات وسلاسة الاتصال بين الطبقات.",
+        "المساهمة النشطة في تطوير أدوات Linrco الداخلية والمنصات الموجهة للعملاء مع التركيز على القابلية للتوسع والصيانة.",
+        "إجراء اجتماعات تخطيط ومراجعة دورية وتحسينات على الأداء لضمان استقرار التطبيق وتحسين تجربة المستخدم."
       ]
     },
     {
-      "Tab": "Proyex",
-      "Title": "مطور Fullstack",
-      "Date": "ديسمبر 2019 - مايو 2023",
+      "Tab": "SEENA PAY",
+      "Title": "مطور واجهات أمامية",
+      "Date": "مايو 2024 - يناير 2025",
       "Description": [
-        "إنشاء وصيانة منصة مراقبة تحتوي على رسوم بيانية في WordPress.",
-        "برمجة وظيفية في القوالب والإضافات لإضافة خصائص المراقبة المطلوبة.",
-        "تنفيذ التكامل المستمر والنسخ الاحتياطي اليومي.",
-        "إنشاء وصيانة منصة مراقبة ثانية تم تطويرها باستخدام Angular، Angular Material، Nodej، MySQL، RxJS، Sass مع رسوم بيانية قابلة للتهيئة، نظام إنذارات، وإدارة المستخدمين والمعلمات العامة.",
-        "اجتماعات تخطيط وتقارير."
+        "تطوير الواجهات الأمامية لمنصات الخدمات المالية والتقسيط التي تعمل كوسيط بين شركات التقسيط لتبسيط العمليات التجارية وأتمتتها.",
+        "بناء واجهات ويب متجاوبة وقابلة للتوسع باستخدام Next.js وLaravel Blade مع ضمان الأداء المثالي وتجربة المستخدم السلسة.",
+        "التعاون مع فرق التطوير الخلفي لدمج واجهات برمجية معقدة وتدفقات مالية داخل الطبقة الأمامية.",
+        "إنشاء مكونات واجهة مستخدم قابلة لإعادة الاستخدام باستخدام SASS وBootstrap وTailwind CSS.",
+        "تحسين تجربة المستخدم وكفاءة العمليات من خلال الأتمتة والهندسة النظيفة والتصميم القائم على البيانات.",
+        "المشاركة في مراجعات الكود والتحسين المستمر لضمان استقرار النظام ودعمه للتوسع."
       ]
     },
     {
-      "Tab": "Freelancer",
-      "Title": "مستقل",
-      "Date": "مايو 2016 - حتى الآن",
+      "Tab": "Domar Company",
+      "Title": "مطور واجهات أمامية",
+      "Date": "يوليو 2023 - أكتوبر 2024",
       "Description": [
-        "تنفيذ تحسينات مستمرة، والعمل على كل من الواجهة الأمامية والخلفية.",
-        "إنشاء منصات باستخدام Angular، Nodejs، وWordPress وفقًا لمبادئ البرمجة الوظيفية والتفاعلية والكائنية.",
-        "أتمتة العمليات باستخدام هياكل البيانات.",
-        "تصميم الواجهات باستخدام SASS، Bootstrap، Materialize، Bulma، وغيرها."
+        "تطوير واجهات أمامية لمنصات تعليم إلكتروني وتجارة إلكترونية متعددة لعملاء دوليين ضمن بيئة شركة برمجيات.",
+        "بناء واجهات قابلة للتوسع وذات أداء عالٍ باستخدام React.js وReact Router وContext API وأنماط إدارة الحالة الحديثة.",
+        "التعاون الوثيق مع فرق التطوير الخلفي لدمج RESTful APIs وضمان التواصل السلس بين الطبقات.",
+        "تطوير واجهات مستخدم متجاوبة وجذابة باستخدام Material-UI وTailwind CSS وSASS لتحسين تجربة المستخدم.",
+        "تحسين الأداء وتطبيق أنظمة تصميم قابلة لإعادة الاستخدام وضمان جودة الكود والمعايير القياسية.",
+        "إدارة جداول المشاريع ومراجعة الكود والمساهمة في تحسين قابلية النظام للتوسع والصيانة للمشروعات الدولية."
       ]
     },
     {
-      "Tab": "Moebius",
-      "Title": "مطور FullStack",
-      "Date": "يوليو 2017 - أكتوبر 2018",
+      "Tab": "ITI (Instructor)",
+      "Title": "مدرب – مسار MERN Stack",
+      "Date": "أكتوبر 2023 - نوفمبر 2023",
       "Description": [
-        "قيادة فريق مكون من 4 أشخاص لتطوير منصة إدارة بيانات السياحة باستخدام Angular، Nodejs، وMySQL.",
-        "تنفيذ التكامل المستمر CI/CD في Azure، وإعادة هيكلة وتحسين أوقات تحميل التطبيق.",
-        "برمجة طلبات API باستخدام RxJS.",
-        "إنشاء وحدات تحتوي على نماذج تفاعلية معقدة.",
-        "إعداد تقارير أسبوعية حول الأهداف والخطط."
+        "تقديم جلسات تدريبية عملية في مسار MERN (MongoDB وExpress.js وReact وNode.js) مع التركيز على تطوير المشاريع الواقعية.",
+        "شرح المفاهيم الأساسية في الواجهات الأمامية والخلفية وتكامل الـ API وإدارة قواعد البيانات بطريقة مبسطة وفعالة.",
+        "إرشاد الطلاب في تنفيذ المشاريع الكاملة وفق أفضل ممارسات البرمجة وتحسين الأداء.",
+        "تقديم الدعم الفني والإشراف الأكاديمي لضمان الفهم العميق والتطبيق العملي للمفاهيم."
       ]
     },
     {
-      "Tab": "TechLatam",
-      "Title": "مطور Frontend",
-      "Date": "فبراير 2016 - مايو 2017",
+      "Tab": "ITI (Student)",
+      "Title": "متدرب تطوير متكامل – مسار تطوير الويب وواجهات المستخدم، الإسماعيلية، مصر",
+      "Date": "يناير 2022 - سبتمبر 2023",
       "Description": [
-        "إنشاء قوالب WordPress باستخدام ACF، برمجة وظيفية بلغة JavaScript / jQuery، وتنسيق باستخدام SASS.",
-        "تنفيذ تحسينات في التصميم وتقليل أوقات تحميل القوالب.",
-        "تواصل فعّال مع فريق التصميم باستخدام Avocode / Figma."
-      ]
-    },
-    {
-      "Tab": "CANTV",
-      "Title": "محلل نظم",
-      "Date": "نوفمبر 2015 - ديسمبر 2016",
-      "Description": [
-        "برمجة وظائف جديدة لمنصة إدارة موظفين موجودة باستخدام Angular وExpressJS.",
-        "إعادة هيكلة الكود القديم وضمان توافق التبعيات مع كل تحديث، مع تحديث منتظم لإصدار Angular."
-      ]
-    },
-    {
-      "Tab": "IEP",
-      "Title": "مدرس لغة إنجليزية",
-      "Date": "يناير 2015 - يوليو 2015",
-      "Description": [
-        "تدريس اللغة الإنجليزية للمستوى الأساسي لأكثر من 200 طالب."
+        "إكمال برنامج مكثف لتعلم تطوير الويب المتكامل يغطي الجوانب الأمامية والخلفية مع أساس قوي في هندسة البرمجيات.",
+        "دراسة وتطبيق هياكل البيانات والخوارزميات ومبادئ تصميم البرمجيات لتطوير تطبيقات ويب قابلة للتوسع.",
+        "العمل باستخدام أطر متعددة مثل Angular وReact وNext.js وVue.js.",
+        "تطوير تطبيقات خلفية باستخدام Node.js وNestJS مع خبرة عملية في قواعد بيانات SQL وMySQL وMongoDB.",
+        "بناء مشاريع ويب متكاملة من الصفر وفق معايير التصميم الحديث والهندسة النظيفة وتجربة المستخدم المتقدمة."
       ]
     }
   ],
-  "FeatureProjects.Title": "مشاريعي",
+  "FeatureProjects.Title": "المشاريع المميزة",
   "FeatureProjects.Label": "مشروع مميز",
   "FeatureProjects.Projects": [
     {
-      "Title": "Gisselle",
-      "Description": "تطبيق ويب لإدارة داخلية لشركة يغطي أقسام المبيعات، التحصيل والمتابعة. تطبيق واسع ومعقد يحتوي على وظائف متعددة، تم تطويره باستخدام <span class='underline'>Angular</span> و<span class='underline'>Nodejs</span>. يعمل بـ<span class='underline'>websockets</span>، <span class='underline'>schedules</span>، <span class='underline'>وظائف Nodejs</span>، وتكامل مع WordPress وZadarma وLiveConnect وغيرها.",
-      "imgs": [
-        "assets/images/gisselle/Captura de pantalla 2024-05-19 1009582.png",
-        "assets/images/gisselle/Captura de pantalla 2024-05-19 115514.png",
-        "assets/images/gisselle/Captura de pantalla 2024-05-19 115702.png",
-        "assets/images/gisselle/Captura de pantalla 2024-05-19 115829.png",
-        "assets/images/gisselle/Captura de pantalla 2024-05-19 1009582.png"
-      ],
-      "Technologies": [
-        "Nodejs",
-        "Angular",
-        "SASS",
-        "Angular Material",
-        "RxJS"
-      ]
-    },
-    {
-      "Title": "Emelteciot",
-      "Description": "تطبيق مراقبة لعرض البيانات، تم تطويره باستخدام <span class='underline'>Angular</span> و<span class='underline'>Nodejs</span>. يستخدم مكتبة الرسوم البيانية <span class='underline'>chart.js</span>.",
-      "imgs": [
-        "assets/images/proyex2/Captura de pantalla 2024-07-28 102852.png",
-        "assets/images/proyex2/849c117f-bed9-4406-9c13-c8669f655acc.png",
-        "assets/images/proyex2/62cdf90c-6196-4a6e-b639-8919cda4f749.png",
-        "assets/images/proyex2/8c919208-d6a8-48f4-890d-4817323b6923.png",
-        "assets/images/proyex2/8c919208-d6a8-48f4-890d-4817323b6923 (1).png"
-      ],
-      "Technologies": [
-        "Nodejs",
-        "Angular",
-        "SASS",
-        "Angular Material",
-        "RxJS"
-      ]
-    },
-    {
-      "Title": "Vas Aviation",
-      "Description": "تطبيق لتتبع طلبات وقود الطائرات. يحتوي على <span class='underline'>وحدة بريد إلكتروني</span>، <span class='underline'>إشعارات فورية</span>، <span class='underline'>إدارة ملفات CSV لاستيراد البيانات</span>، <span class='underline'>تسعير العروض</span> وغيرها. تم تطويره باستخدام <span class='underline'>Angular</span> و<span class='underline'>Nodejs</span>.",
-      "imgs": [
-        "assets/images/vasaviation/capture0.png",
-        "assets/images/vasaviation/capture1.png",
-        "assets/images/vasaviation/capture2.png",
-        "assets/images/vasaviation/capture3.png",
-        "assets/images/vasaviation/capture4.png",
-        "assets/images/vasaviation/capture5.png"
-      ],
-      "Technologies": [
-        "Nodejs",
-        "Angular",
-        "SASS",
-        "Angular Material",
-        "RxJS"
-      ]
-    },
-    {
-      "Title": "GlobalJobs",
-      "Description": "منصة تعليم إلكتروني (e-learning) تم تطويرها باستخدام WordPress بتصميم مخصص بالكامل، مع إضافات تم تطويرها من الصفر. تحتوي على وحدة دفع مخصصة، فصل افتراضي، ولوحة تحكم لمتابعة الدورات.",
-      "imgs": [
-        "assets/images/globaljobs/capture1.png",
-        "assets/images/globaljobs/capture2.png",
-        "assets/images/globaljobs/capture3.png",
-        "assets/images/globaljobs/capture4.png",
-        "assets/images/globaljobs/capture5.png",
-        "assets/images/globaljobs/capture6.png"
-      ],
-      "Technologies": [
-        "WordPress",
-        "WordPress Codex",
-        "PHP",
-        "MySQL"
-      ]
-    },
-    {
-      "Title": "GlobalJobs",
-      "Description": "منصة تجارة إلكترونية لمنتجات التكنولوجيا، تم تطويرها باستخدام WordPress مع نظام شحن مخصص للمنتجات، وتحتوي على تقارير مبيعات من خلال برمجة مخصصة.",
-      "imgs": [
-        "assets/images/mbelectronics/capture0.png",
-        "assets/images/mbelectronics/capture1.png",
-        "assets/images/mbelectronics/capture2.png"
-      ],
-      "Technologies": [
-        "WordPress",
-        "Elementor",
-        "WooCommerce",
-        "WordPress Codex",
-        "PHP",
-        "MySQL"
-      ]
-    },
-    {
-      "Title": "Agrourbana",
-      "Description": "تطبيق مراقبة تم تطويره من الصفر مع وحدة تسجيل دخول (Auth)، <span class='underline'>رسوم بيانية قابلة للتهيئة</span>، <span class='underline'>إنذارات قابلة للتهيئة</span> و<span class='underline'>إدارة مستخدمين</span>. يحتوي أيضًا على منطق نماذج تفاعلية لتكوين المعلمات.",
-      "imgs": [
-        "assets/images/agrourbana/agrourbana1.png",
-        "assets/images/agrourbana/agrourbana2.png",
-        "assets/images/agrourbana/agrourbana3.png",
-        "assets/images/agrourbana/agrourbana4.png",
-        "assets/images/agrourbana/agrourbana5.png"
-      ],
-      "Technologies": [
-        "Nodejs",
-        "Angular",
-        "SASS",
-        "Angular Material",
-        "RxJS"
-      ]
-    },
-    {
-      "Title": "Tu super plan",
-      "Description": "حاسبة خطط تأمين صحي تحتوي على محرك بحث للاستعلامات المتقدمة. تُعرض الخطط بناءً على العمر، الدخل الشهري، والموقع الجغرافي للمستخدم. تحتوي على <span class='underline'>دردشة مباشرة</span>، <span class='underline'>نموذج تواصل</span>، <span class='underline'>نظام إشعارات عبر واتساب والبريد</span>، <span class='underline'>نظام دخول (Auth)</span>، و<span class='underline'>إدارة داخلية للمعلومات عبر دور المدير</span>.",
-      "imgs": [
-        "assets/images/tusuperplan/tusuperplan1.png",
-        "assets/images/tusuperplan/tusuperplan2.png",
-        "assets/images/tusuperplan/tusuperplan3.png",
-        "assets/images/tusuperplan/tusuperplan4.png",
-        "assets/images/tusuperplan/tusuperplan5.png"
-      ],
-      "Technologies": [
-        "Nodejs",
-        "Angular",
-        "SASS",
-        "Angular Material",
-        "RxJS"
-      ]
-    },
-    {
-      "Title": "Proyexiot",
-      "Description": "منصة مراقبة بيانات تخص آبار المياه، القاطرات، ومرافق متنوعة، تم تطويرها من الصفر مع وحدة تسجيل دخول، <span class='underline'>رسوم بيانية قابلة للتهيئة</span>، <span class='underline'>إنذارات قابلة للتهيئة</span>، <span class='underline'>إدارة مستخدمين</span> و<span class='underline'>تحديد الموقع الجغرافي باستخدام OpenLayers</span>. تحتوي أيضًا على منطق نماذج تفاعلية لتكوين المعلمات.",
+      "Title": "المعرض الشخصي",
+      "Description": "موقع إلكتروني أنيق ومتجاوب لعرض مشاريعي ومهاراتي ومعلومات التواصل بأسلوب بصري جذاب.",
       "imgs": [
         "assets/images/proyex/proyex1.png",
         "assets/images/proyex/proyex2.png",
@@ -243,93 +104,139 @@
         "assets/images/proyex/proyex12.png"
       ],
       "Technologies": [
-        "Nodejs",
         "Angular",
-        "SASS",
-        "Angular Material",
-        "RxJS"
+        "CSS",
+        "HTML",
+        "Tailwind"
+      ]
+    },
+    {
+      "Title": "تطبيق حجز تذاكر الطيران",
+      "Description": "تطبيق بسيط وسهل الاستخدام لتسهيل عملية البحث عن تذاكر الطيران مع واجهة مستخدم مريحة وتوافر فوري للنتائج.",
+      "imgs": [
+        "assets/images/tusuperplan/tusuperplan1.png",
+        "assets/images/tusuperplan/tusuperplan2.png",
+        "assets/images/tusuperplan/tusuperplan3.png",
+        "assets/images/tusuperplan/tusuperplan4.png",
+        "assets/images/tusuperplan/tusuperplan5.png"
+      ],
+      "Technologies": [
+        "Angular",
+        "Angular Material"
+      ]
+    },
+    {
+      "Title": "متجر تجارة إلكترونية متكامل بـ Angular",
+      "Description": "تطبيق تجارة إلكترونية شامل مبني بـ Angular يتضمن إدارة منتجات وتسجيل مستخدمين وتجربة تسوق سلسة.",
+      "imgs": [
+        "assets/images/agrourbana/agrourbana1.png",
+        "assets/images/agrourbana/agrourbana2.png",
+        "assets/images/agrourbana/agrourbana3.png",
+        "assets/images/agrourbana/agrourbana4.png",
+        "assets/images/agrourbana/agrourbana5.png"
+      ],
+      "Technologies": [
+        "Angular",
+        "Node.js",
+        "Bootstrap",
+        "Tailwind"
       ]
     }
   ],
-  "OtherProjects.Title": "مشاريع أخرى",
+
   "OtherProjects.Projects": [
     {
-      "Title": "Hands game",
-      "Description": "لعبة حجر ورقة مقص موسعة. مشروع شخصي تم تطويره في Angular حيث تلعب عشوائيًا ضد الكمبيوتر. يستخدم الخدمات والواجهات والمكونات.",
+      "Title": "المعرض الشخصي",
+      "Description": "موقع إلكتروني أنيق ومتجاوب لعرض مشاريعي ومهاراتي ومعلومات التواصل بطريقة جذابة بصريًا.",
       "imgs": [
-        "assets/images/hands-game.png"
+        "assets/images/potfolio.avif"
       ],
-      "ghLink": "https://github.com/andresjosehr/hands-game",
-      "demoLink": "https://proyectos.andresjosehr.com/hands-game",
+      "ghLink": "https://github.com/omarhassan226/Portofolio",
+      "demoLink": "https://portofolio-4gkl.vercel.app/",
       "Technologies": [
         "Angular",
-        "CSS GRID",
-        "SASS",
-        "Angular animations"
+        "CSS",
+        "HTML",
+        "Tailwind"
       ]
     },
     {
-      "Title": "Countries viewer",
-      "Description": "واجهة تعرض بيانات من API للدول يمكن من خلالها مشاهدة قائمة الدول، تفاصيل كل دولة، التصفية حسب الاسم أو المنطقة، وتبديل الوضع الليلي والنهاري.",
+      "Title": "تطبيق حجز تذاكر الطيران",
+      "Description": "تطبيق ذكي يسهل عملية البحث عن تذاكر الطيران من خلال واجهة استخدام مريحة وتحديثات فورية.",
       "imgs": [
-        "assets/images/countries-viewer.png"
+        "assets/images/air.PNG"
       ],
-      "ghLink": "https://github.com/andresjosehr/countries-viewer",
-      "demoLink": "https://proyectos.andresjosehr.com/countries-viewer",
+      "ghLink": "https://github.com/omarhassan226/New-Travel",
+      "demoLink": "https://travel-task-roundpixel.vercel.app/",
       "Technologies": [
         "Angular",
-        "RxJS",
-        "SASS",
-        "API"
+        "Angular Material"
       ]
     },
     {
-      "Title": "Four card feature section",
-      "Description": "صفحة واحدة بتصميم بسيط تعرض 4 ميزات في 4 بطاقات، مع استخدام حركات دخول بواسطة Angular animations.",
-      "ghLink": "https://github.com/andresjosehr/fourd-card-feature-section",
-      "demoLink": "https://proyectos.andresjosehr.com/four-card-feature-section",
+      "Title": "تطبيق تجارة إلكترونية متكامل بـ Angular",
+      "Description": "منصة تجارة إلكترونية متكاملة مبنية بـ Angular تشمل إدارة المنتجات والمستخدمين وتجربة تسوق سلسة وآمنة.",
+      "imgs": [
+        "assets/images/template.avif"
+      ],
+      "ghLink": "https://github.com/abrarhussien/E-commerce-Angular",
+      "demoLink": "https://e-commerce-zero-two.vercel.app/home",
       "Technologies": [
         "Angular",
-        "SASS",
-        "CSS GRID"
+        "Node.js",
+        "Bootstrap",
+        "Tailwind"
       ]
     },
     {
-      "Title": "Social proof section",
-      "Description": "مشروع شخصي لصفحة مبنية من تصميم على Figma. تم تطويرها باستخدام Angular مع SASS وCSS GRID.",
-      "ghLink": "https://github.com/andresjosehr/social-proof-section",
-      "demoLink": "https://proyectos.andresjosehr.com/social-proof-section",
+      "Title": "متجر X-Abayat بنظام دخول مزدوج (العميل والمصمم)",
+      "Description": "تطبيق تجارة إلكترونية متكامل بـ React يضم نظامي تسجيل دخول للعميل والمصمم، مع قسم تواصل اجتماعي للمصممين ولوحة تحكم متكاملة وتجربة تسوق مميزة.",
+      "imgs": [
+        "assets/images/x-abayat.PNG"
+      ],
+      "ghLink": "https://github.com/abrarhussien/E-commerce-Angular",
+      "demoLink": "https://x-abayat.netlify.app/",
       "Technologies": [
-        "Angular",
-        "CSS GRID",
-        "GIT"
+        "React",
+        "PHP",
+        "Bootstrap",
+        "Tailwind",
+        "MUI"
       ]
     },
     {
-      "Title": "FAQ accordion card",
-      "Description": "قسم الأسئلة الشائعة مع منطق وحركات تم تنفيذها في Angular.",
-      "ghLink": "https://github.com/andresjosehr/faq-accordion",
-      "demoLink": "https://proyectos.andresjosehr.com/faq-accordion",
+      "Title": "لوحة تحكم Sigmaty",
+      "Description": "لوحة عرض بيانات شاملة تجمع المؤشرات والتحليلات الأساسية في واجهة مرئية سهلة الاستخدام تساعد على اتخاذ القرارات بدقة.",
+      "imgs": [
+        "assets/images/dashboard.jpg"
+      ],
+      "ghLink": "https://github.com/omarhassan226/Sigmaty-Dashboard/tree/master",
+      "demoLink": "https://sigmaty-dashboard-97.vercel.app",
       "Technologies": [
-        "Angular",
-        "CSS GRID",
-        "Angular animations"
+        "React",
+        "Firebase",
+        "Tailwind",
+        "Bootstrap"
       ]
     },
     {
-      "Title": "Profile card",
-      "Description": "تصميم بسيط لصفحة تحتوي على بطاقة ملف شخصي تعرض معلومات أساسية عن شخص.",
-      "ghLink": "https://github.com/andresjosehr/profile-card-component",
-      "demoLink": "https://proyectos.andresjosehr.com/profile-card-component",
+      "Title": "منصة تجارة إلكترونية مع المزاد والدردشة المباشرة",
+      "Description": "منصة تجارة إلكترونية ديناميكية تضم عرض المنتجات وسلة التسوق وتسجيل المستخدمين مع ميزة المزاد والدردشة المباشرة للمزايدة والتواصل في الوقت الفعلي.",
+      "imgs": [
+        "assets/images/chat.gif"
+      ],
+      "ghLink": "https://github.com/alimagdi12/final-project/tree/master",
+      "demoLink": "http://myecommerce.com",
       "Technologies": [
-        "Angular",
-        "SASS",
-        "GIT"
+        "React",
+        "Node.js",
+        "MongoDB"
       ]
     }
   ],
-  "Contact.Pretitle": "وماذا بعد؟",
-  "Contact.Title": "سلّم عليّ!",
-  "Contact.Content": "سيسعدني تلقي تواصلك إذا كنت ترغب في التحدث عن فرص جديدة. اكتب لي وسأرد عليك بمجرد أن أرى رسالتك.",
-  "Contact.Btn": "اتصل بي"
+  "OtherProjects.Title": "روابط المشاريع",
+  "Contact.Pretitle": "والآن؟",
+  "Contact.Title": "تواصل معي!",
+  "Contact.Content": "يسعدني سماعك إذا كنت ترغب في مناقشة فرص جديدة. اكتب لي وسأردّ عليك فور رؤية رسالتك.",
+  "Contact.Btn": "راسلني"
 }
